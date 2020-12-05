@@ -1,6 +1,6 @@
 <b>Project Overview</b>
 
-In this project, we have a dataset of 10,000 movies from TMDb that were created between 1969 and 2005.
+In this project, we have a dataset of 10,000 movies from TMDb that were created between 1969 and 2015.
 We will analyze the data then communicate the findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib in our analysis process.
 
 <b>Why this Project?</b>
